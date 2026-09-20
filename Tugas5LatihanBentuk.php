@@ -44,5 +44,4 @@ $daftarBentuk = [
 
 foreach ($daftarBentuk as $bentuk) {
     echo "Luas " . $bentuk . ": " . $bentuk->hitungLuas() . "<br>";
-}
-?>
+} 
