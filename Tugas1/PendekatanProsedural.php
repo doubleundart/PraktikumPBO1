@@ -9,5 +9,4 @@ function hitungLuas($panjang, $lebar) {
 
 $luas = hitungLuas ($panjang, $lebar);
 echo "Luas persegi panjang (Prosedural) = $luas";
-
 ?>
